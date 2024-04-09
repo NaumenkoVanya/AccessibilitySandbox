@@ -11,7 +11,8 @@ import SwiftUI
 struct AccessibilitySandboxApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ReadingTheValueOfControls()
+//            ContentView()
         }
     }
 }
