@@ -14,6 +14,7 @@
 		CA0300CC2BC47C440073CB4E /* IdentifyingViewsWithUsefulLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA0300CB2BC47C440073CB4E /* IdentifyingViewsWithUsefulLabels.swift */; };
 		CA0300CF2BC482690073CB4E /* HidingAndGroupingAccessibilityData.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA0300CE2BC482690073CB4E /* HidingAndGroupingAccessibilityData.swift */; };
 		CA0300D12BC4856A0073CB4E /* ReadingTheValueOfControls.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA0300D02BC4856A0073CB4E /* ReadingTheValueOfControls.swift */; };
+		CA888C4F2BC541E9004BC0A0 /* FixingWordScramble.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA888C4E2BC541E9004BC0A0 /* FixingWordScramble.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		CA0300CB2BC47C440073CB4E /* IdentifyingViewsWithUsefulLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IdentifyingViewsWithUsefulLabels.swift; sourceTree = "<group>"; };
 		CA0300CE2BC482690073CB4E /* HidingAndGroupingAccessibilityData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HidingAndGroupingAccessibilityData.swift; sourceTree = "<group>"; };
 		CA0300D02BC4856A0073CB4E /* ReadingTheValueOfControls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadingTheValueOfControls.swift; sourceTree = "<group>"; };
+		CA888C4E2BC541E9004BC0A0 /* FixingWordScramble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FixingWordScramble.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				CA0300CB2BC47C440073CB4E /* IdentifyingViewsWithUsefulLabels.swift */,
 				CA0300CE2BC482690073CB4E /* HidingAndGroupingAccessibilityData.swift */,
 				CA0300D02BC4856A0073CB4E /* ReadingTheValueOfControls.swift */,
+				CA888C4E2BC541E9004BC0A0 /* FixingWordScramble.swift */,
 			);
 			path = HomeWork;
 			sourceTree = "<group>";
@@ -159,6 +162,7 @@
 				CA0300CF2BC482690073CB4E /* HidingAndGroupingAccessibilityData.swift in Sources */,
 				CA0300D12BC4856A0073CB4E /* ReadingTheValueOfControls.swift in Sources */,
 				CA0300CC2BC47C440073CB4E /* IdentifyingViewsWithUsefulLabels.swift in Sources */,
+				CA888C4F2BC541E9004BC0A0 /* FixingWordScramble.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
